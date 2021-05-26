@@ -13,6 +13,5 @@ No curso, que é uma introdução à programação com foco em desenvolvimento w
 Clique na imagem para visualizar o site:
 
 
-[<img src="img/ada.png" target="_blank" alt="Foto do início da página do site Ada Lovelace" width="50%"/>](https://ada-lovelace.claudinha.repl.co/)
-
+[<img src="img/ada.png" target="_blank" alt="Foto do início da página do site Ada Lovelace" width="80%"/>](https://ada-lovelace.claudinha.repl.co/)
 
