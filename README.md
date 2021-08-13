@@ -9,7 +9,7 @@ E para tal, desenvolvemos um site sobre a Ada Lovelace.
 
 ### 🖥️  Instalações
 
-Utilizamos o IDE online [Replit](https://replit.com/).
+- Utilizamos o IDE online [Replit](https://replit.com/).
 
 ### ⚒️  Tecnologias
 
