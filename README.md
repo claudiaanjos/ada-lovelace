@@ -7,15 +7,10 @@
 No curso, que é uma introdução à programação com foco em desenvolvimento web, foram abordados os conceitos iniciais em HTML, CSS e JavaScript.
 E para tal, desenvolvemos um site sobre a Ada Lovelace.
 
-### 🖥️  Instalações
+### 🖥️  Recursos Utilizados
 
-- Utilizamos o IDE online [Replit](https://replit.com/).
+- IDE online [Replit](https://replit.com/).
 
-### ⚒️  Tecnologias
-
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 &nbsp;
 
